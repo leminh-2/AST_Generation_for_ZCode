@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(o1), [VarDecl(Id(H5DQ), BoolType, None, None)], Return())])

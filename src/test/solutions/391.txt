@@ -1,0 +1,1 @@
+Program([VarDecl(Id(O__), ArrayType([84.51, 77.35, 40.57], BoolType), None, None), FuncDecl(Id(MqIP), [VarDecl(Id(ZVmu), NumberType, None, None), VarDecl(Id(qI), ArrayType([87.71, 1.0], NumberType), None, None), VarDecl(Id(sKi6), ArrayType([94.55, 80.99, 81.71], BoolType), None, None)], Block([Return(NumLit(3.68))]))])

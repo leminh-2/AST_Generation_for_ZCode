@@ -1,0 +1,9 @@
+
+func crTl ()
+	return false
+
+bool pAV[17.59,97.49]
+bool onz
+number ewI
+func BVho (number LN2, number CnxM[72.57,5.1])	return
+

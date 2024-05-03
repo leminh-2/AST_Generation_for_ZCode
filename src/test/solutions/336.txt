@@ -1,0 +1,1 @@
+Program([VarDecl(Id(qFwk), StringType, None, NumLit(20.0)), FuncDecl(Id(EaB), [VarDecl(Id(cZg), BoolType, None, None), VarDecl(Id(bSIg), StringType, None, None)], Block([Return(StringLit(dFa)), Continue, AssignStmt(ArrayCell(Id(fE), [NumLit(9.2), BooleanLit(True), StringLit(u)]), BooleanLit(True))]))])

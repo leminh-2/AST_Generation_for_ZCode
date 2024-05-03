@@ -1,0 +1,1 @@
+Program([VarDecl(Id(fje), ArrayType([7.92, 21.52], StringType), None, None)])

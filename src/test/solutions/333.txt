@@ -1,0 +1,1 @@
+Program([VarDecl(Id(qW), ArrayType([78.56, 31.03, 26.97], NumberType), None, None)])

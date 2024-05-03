@@ -1,0 +1,6 @@
+
+func uFLM ()	return
+
+string YQY <- NbuI
+number VK[0.08,79.37,56.6] <- 69.15
+dynamic b4Z <- false

@@ -1,0 +1,4 @@
+
+func QQGI (bool uUN, string vWI)
+	return xh
+func C_ (number oX[39.54], bool Tp[23.26,37.84], string KX)	return

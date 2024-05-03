@@ -1,0 +1,1 @@
+Program([VarDecl(Id(vky), ArrayType([85.97, 19.26], NumberType), None, None), FuncDecl(Id(WSVN), [VarDecl(Id(j8Cd), ArrayType([16.97, 35.68], BoolType), None, None), VarDecl(Id(jwT9), ArrayType([64.27, 4.02], StringType), None, None), VarDecl(Id(ols), ArrayType([29.1, 82.18, 46.06], BoolType), None, None)], Block([Break, Return(), Break]))])

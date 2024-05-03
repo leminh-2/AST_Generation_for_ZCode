@@ -1,0 +1,5 @@
+
+func wp (bool TE8m[4.85,21.92], bool Nr)	begin
+	end
+number Vr[79.35,24.9,26.84]
+string PSM[49.02,1.76,83.32]

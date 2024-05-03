@@ -1,0 +1,6 @@
+
+bool jss[74.76,36.15] <- "iDTNx"
+func ol (string Q1[97.57,14.19,55.09], number tu_9)	return
+func oi (number cIA[83.22], bool OS)	return "n"
+
+number gbI[89.45,24.39] <- MPsQ

@@ -1,0 +1,1 @@
+Program([VarDecl(Id(MOf), None, var, StringLit(s)), VarDecl(Id(cm), None, dynamic, None)])

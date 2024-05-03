@@ -1,0 +1,4 @@
+
+func lia7 (bool zC9[10.9,17.82], number cgW[22.66,47.33], string qI[43.56])
+	return
+

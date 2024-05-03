@@ -1,0 +1,13 @@
+
+number wUS[16.29]
+func gQ1 (string P3)	return
+number HDu[55.08,57.12,19.97] <- false
+func b2w6 ()	begin
+		for Nsw until Wx7G by LdV
+			continue
+		Da8v(76.21)
+		begin
+			break
+			ZSS8()
+		end
+	end

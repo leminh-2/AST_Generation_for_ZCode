@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(Hz), [VarDecl(Id(b5), ArrayType([6.25, 65.81], StringType), None, None), VarDecl(Id(zig), ArrayType([7.0], NumberType), None, None)], Return(StringLit(P)))])

@@ -1,0 +1,1 @@
+Program([VarDecl(Id(JIZG), BoolType, None, BooleanLit(True)), VarDecl(Id(uGC), ArrayType([5.58, 6.93, 34.46], StringType), None, NumLit(20.94)), VarDecl(Id(DXj5), ArrayType([88.27], BoolType), None, None)])

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(upy), [], Block([Continue, AssignStmt(ArrayCell(Id(IPL), [StringLit(Vuy), NumLit(87.6)]), StringLit(cYf))])), VarDecl(Id(iT), ArrayType([43.46, 67.89, 35.76], NumberType), None, None), VarDecl(Id(RvIA), ArrayType([80.27, 38.37], NumberType), None, StringLit(MJ))])

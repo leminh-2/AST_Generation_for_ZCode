@@ -1,0 +1,9 @@
+
+func ZNJz (number YyYg[88.02,62.42,73.79], number yQ, number sw)
+	begin
+	end
+
+func OVs (bool oxMF, number q8_)
+	return
+dynamic DQWm <- false
+string dnf[54.54,5.64,10.79] <- ULT

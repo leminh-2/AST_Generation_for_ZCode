@@ -1,0 +1,5 @@
+
+string atLy[39.89] <- rZ
+string goOw[68.11,0.67] <- true
+func wm (string zc)	return "VE"
+func HZ5F ()	return true

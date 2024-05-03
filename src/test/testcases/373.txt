@@ -1,0 +1,4 @@
+
+dynamic qBY <- false
+func JW (number VUp, bool codr)	return
+

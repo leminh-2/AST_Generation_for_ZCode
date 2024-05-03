@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(ND), [], Return(StringLit(MEa))), VarDecl(Id(fT), BoolType, None, NumLit(94.01))])

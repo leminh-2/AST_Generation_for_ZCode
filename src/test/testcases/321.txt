@@ -1,0 +1,4 @@
+
+string zdp <- "Gzo"
+func tM (number Pf, bool zrz1[67.62,74.08], number J5Z[61.18,88.69,79.24])	return
+

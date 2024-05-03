@@ -1,0 +1,1 @@
+Program([VarDecl(Id(rOu), NumberType, None, None), FuncDecl(Id(tx4r), [], Return())])

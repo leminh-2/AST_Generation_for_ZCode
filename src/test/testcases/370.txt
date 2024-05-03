@@ -1,0 +1,11 @@
+
+func p5ar ()	return
+func DQI (bool cBLb, string rsE[39.47], number sV)
+	begin
+		LXRu <- "eve"
+	end
+
+func EJ (bool D_C[55.2,45.12], number mie[27.06,70.35,11.24], bool aAb[43.93,4.1])
+	return true
+
+dynamic KGwJ <- lIq

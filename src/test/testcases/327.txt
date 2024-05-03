@@ -1,0 +1,12 @@
+
+func LMA (string Rk7[32.26,33.85,98.32], number kcRT[0.08,39.7])
+	return true
+func Ya2e (number pGM, string ibi)	begin
+	end
+
+func Db (number oNoF, number Y_e)
+	begin
+		for Fh until 37.02 by true
+			for rCJh until true by true
+				M5d3(true, true)
+	end

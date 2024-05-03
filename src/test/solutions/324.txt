@@ -1,0 +1,1 @@
+Program([VarDecl(Id(tC), BoolType, None, None)])

@@ -1,0 +1,6 @@
+
+func CDqh (number PgC, number R4[31.31,87.91])
+	begin
+		m7M <- "YNO"
+	end
+

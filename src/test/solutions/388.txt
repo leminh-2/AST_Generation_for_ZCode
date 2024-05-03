@@ -1,0 +1,1 @@
+Program([VarDecl(Id(of1N), ArrayType([44.69, 16.32, 92.89], StringType), None, BooleanLit(True)), FuncDecl(Id(wlo), [VarDecl(Id(rFW), BoolType, None, None), VarDecl(Id(zwf4), NumberType, None, None), VarDecl(Id(eI), ArrayType([81.31], StringType), None, None)], Block([For(Id(Og), Id(crx), NumLit(5.59), Continue), AssignStmt(Id(OR), Id(sbP))]))])

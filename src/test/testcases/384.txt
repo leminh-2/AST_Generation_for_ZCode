@@ -1,0 +1,8 @@
+
+dynamic bq
+number VuU
+func kq (number Ff, number cGhn, number Ks)
+	return wzX
+
+func Rugn (bool QMqW[23.19,37.36])
+	return

@@ -1,0 +1,4 @@
+
+dynamic im
+func W4H ()
+	return false

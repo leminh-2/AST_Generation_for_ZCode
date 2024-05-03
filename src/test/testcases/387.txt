@@ -1,0 +1,17 @@
+
+number X9hT[18.77,55.14] <- knn
+func Mr ()
+	begin
+		vGw(14.2, "j")
+		break
+		begin
+			if ("yZABf") number F1Pz[20.63]
+			elif ("gAl") jPG()
+			elif (81.0) break
+			elif (false) number BDB[88.71,76.67] <- false
+			elif (Eht)
+			O2l <- 13.03
+			else return
+		end
+	end
+func vog ()	return false

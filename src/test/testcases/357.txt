@@ -1,0 +1,3 @@
+
+bool R6U
+bool tc[77.0,74.85,66.88] <- SUJe

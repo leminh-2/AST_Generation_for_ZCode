@@ -1,0 +1,15 @@
+
+func IoN (string Ei, string vT[13.98,38.0,6.85])	begin
+		return mESc
+		kc(92.43, h_4)
+		begin
+		end
+	end
+bool UhnQ <- tF1K
+func lN ()
+	return
+
+func IGAb (bool fr43)	return 42.69
+
+func pf_ (number aR, bool aO, number h8H)	return
+

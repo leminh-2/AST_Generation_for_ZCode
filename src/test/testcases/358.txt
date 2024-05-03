@@ -1,0 +1,8 @@
+
+func q0a ()	begin
+		break
+		tHLt(cV)
+		break
+	end
+func xwL (bool IP[33.71], number eQhN[0.19])	return
+

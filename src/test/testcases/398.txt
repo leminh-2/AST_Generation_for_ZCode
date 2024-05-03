@@ -1,0 +1,7 @@
+
+func GTEN ()	return
+func PgOx (number NL[67.84], number Hl0M, bool Sun)
+	return
+
+func bSO (bool gfP)	return true
+

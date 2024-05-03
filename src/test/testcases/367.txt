@@ -1,0 +1,15 @@
+
+bool cF <- false
+func jc (string Sg)
+	begin
+		if (true)
+		dynamic FkQN
+		elif ("g") continue
+		elif (qJ4)
+		for Qe until 43.55 by true
+			X63 <- Fu
+		elif (false) continue
+		else return
+		break
+	end
+number D6[33.93] <- "DBmP"

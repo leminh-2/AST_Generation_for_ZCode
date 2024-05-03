@@ -1,0 +1,1 @@
+Program([VarDecl(Id(MGNZ), ArrayType([54.45, 7.11], BoolType), None, NumLit(90.79)), VarDecl(Id(GPm), ArrayType([83.99, 70.39], NumberType), None, None)])

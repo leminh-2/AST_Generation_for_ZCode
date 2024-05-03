@@ -1,0 +1,19 @@
+
+number clGI[87.61,4.04,72.2]
+func mzZ1 ()	begin
+		CS[false, Je] <- true
+		continue
+		if (58.36) for CIHo until 28.71 by fh
+			return
+		elif (false) for fDo until 24.91 by 81.47
+			for TJ9B until PN by iST
+				for fU until bIQ by 81.93
+					for QAn until l6 by "Uh"
+						continue
+		elif ("HUWOo")
+		break
+		elif (53.5)
+		string nb[46.23,26.9] <- true
+		else number yrf[17.22,76.65] <- false
+	end
+bool g4

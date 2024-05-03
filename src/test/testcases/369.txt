@@ -1,0 +1,4 @@
+
+number LU <- 22.64
+func zfF (number iy3, string wEMs[92.85], bool nl[67.26,26.15,2.74])	return "jtC"
+var n9 <- 75.65

@@ -1,0 +1,6 @@
+
+number VAJ6 <- JH3
+string d60[69.4,13.64,11.42]
+func lF ()	return
+func tWGg ()	return
+bool THG[29.6] <- true

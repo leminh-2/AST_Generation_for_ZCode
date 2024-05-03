@@ -1,0 +1,4 @@
+
+bool qsHC[37.27]
+var dkk <- false
+dynamic lN0

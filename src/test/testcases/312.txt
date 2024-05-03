@@ -1,0 +1,9 @@
+
+number bB[21.07,74.06]
+func Ojfw ()
+	begin
+		continue
+		return
+		bool qLXf[76.46] <- "mTDd"
+	end
+

@@ -1,0 +1,15 @@
+
+func dy (bool byo)	return
+
+func aQZ ()
+	begin
+	end
+func qc2j ()
+	return zJVI
+
+func gT (bool jZK, number tir)	return
+func Cv (bool uOU0[34.33,85.07,63.56], bool Cq, bool BW6[42.54,39.78])	begin
+		continue
+		break
+	end
+

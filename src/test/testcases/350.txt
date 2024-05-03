@@ -1,0 +1,6 @@
+
+bool U4 <- 48.36
+string KJj[80.07,54.54] <- "iyvcS"
+func wF (bool YRGa, string iQFI)	return 64.74
+
+string E2F[50.01,35.37]

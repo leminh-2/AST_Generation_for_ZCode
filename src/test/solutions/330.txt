@@ -1,0 +1,1 @@
+Program([VarDecl(Id(xd7), ArrayType([33.66, 52.59, 94.11], NumberType), None, None), FuncDecl(Id(SAtv), [], Return()), FuncDecl(Id(aql), [VarDecl(Id(V80u), BoolType, None, None), VarDecl(Id(V7Xv), BoolType, None, None)], Return(Id(OQa)))])

@@ -1,0 +1,1 @@
+Program([VarDecl(Id(Tes), NumberType, None, NumLit(0.14)), FuncDecl(Id(Tn), [VarDecl(Id(lDD), ArrayType([19.49], NumberType), None, None), VarDecl(Id(LDK), BoolType, None, None)], Return(BooleanLit(False)))])

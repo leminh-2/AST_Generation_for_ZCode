@@ -1,0 +1,4 @@
+
+func tpzI (bool o05[78.49,26.0], string bpt[50.77,56.44])	return 66.71
+
+func n5G ()	return

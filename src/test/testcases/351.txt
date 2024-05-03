@@ -1,0 +1,5 @@
+
+string J8aT
+dynamic WA
+func fFSJ (string Hz, bool lCw[50.42,81.29,28.69], number rWw[88.07,98.48,63.72])	return
+

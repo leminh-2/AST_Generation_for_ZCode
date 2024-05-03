@@ -1,0 +1,9 @@
+
+bool vV5M <- true
+func Mba (number sT)	begin
+	end
+func iU9x (string m4ri, number P2v, bool ci[42.47,2.38])	begin
+		break
+	end
+
+var o7 <- 92.7

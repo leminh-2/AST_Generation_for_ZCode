@@ -1,0 +1,27 @@
+
+string SA[95.42,37.12,14.71]
+bool IpiM[18.52,49.53,28.34] <- 37.18
+func nA0 (bool dupE[39.39,0.19,50.85])	begin
+		return true
+		break
+		begin
+			begin
+			end
+			if (tFeF) var I4 <- 50.19
+			elif (false)
+			for dDr until Sidi by false
+				bQM <- true
+			elif (true) break
+			elif (NKxP)
+			for TblG until "hRB" by true
+				bool d5P[23.26]
+			elif ("C")
+			JL <- false
+			elif ("VjUFy")
+			continue
+		end
+	end
+func mjSm (string cc[70.59,27.3], string sCMb[30.69,57.55], number HX)
+	return LWVn
+
+func XCS (bool GOi[43.36])	return 5.85

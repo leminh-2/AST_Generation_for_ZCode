@@ -1,0 +1,7 @@
+
+bool GQ[11.56,46.56] <- AKt
+func vt (bool bA, number IyCG[54.1])
+	begin
+		Vy(qnWD, false)
+	end
+func suXl ()	return WJma

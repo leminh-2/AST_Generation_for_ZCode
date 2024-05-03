@@ -1,0 +1,6 @@
+
+func Kg ()
+	return 5.15
+
+func aD (string RU, bool tUqs, string Ip)	return 91.01
+

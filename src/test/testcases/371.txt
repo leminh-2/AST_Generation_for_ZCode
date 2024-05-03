@@ -1,0 +1,5 @@
+
+bool BiYp
+func M0 (string zB, number qq4)
+	begin
+	end
